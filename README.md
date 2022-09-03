@@ -1,2 +1,2 @@
 # NEWSBIT
-Responsble with css tools
+Responsible with css tools
